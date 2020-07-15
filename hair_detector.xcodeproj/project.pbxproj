@@ -15,6 +15,7 @@
 		F15001D224B25801000AA9BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F15001D024B25801000AA9BA /* LaunchScreen.storyboard */; };
 		F15001DD24B25802000AA9BA /* hair_detectorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15001DC24B25802000AA9BA /* hair_detectorTests.swift */; };
 		F15001E824B25802000AA9BA /* hair_detectorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15001E724B25802000AA9BA /* hair_detectorUITests.swift */; };
+		F15001F624B258AC000AA9BA /* nywele 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = F15001F524B258AC000AA9BA /* nywele 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F15001E324B25802000AA9BA /* hair_detectorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hair_detectorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15001E724B25802000AA9BA /* hair_detectorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hair_detectorUITests.swift; sourceTree = "<group>"; };
 		F15001E924B25802000AA9BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F15001F524B258AC000AA9BA /* nywele 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "nywele 1.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F15001C724B25800000AA9BA /* SceneDelegate.swift */,
 				F15001C924B25800000AA9BA /* ViewController.swift */,
 				F15001CB24B25800000AA9BA /* Main.storyboard */,
+				F15001F524B258AC000AA9BA /* nywele 1.mlmodel */,
 				F15001CE24B25801000AA9BA /* Assets.xcassets */,
 				F15001D024B25801000AA9BA /* LaunchScreen.storyboard */,
 				F15001D324B25801000AA9BA /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F15001CA24B25800000AA9BA /* ViewController.swift in Sources */,
+				F15001F624B258AC000AA9BA /* nywele 1.mlmodel in Sources */,
 				F15001C624B25800000AA9BA /* AppDelegate.swift in Sources */,
 				F15001C824B25800000AA9BA /* SceneDelegate.swift in Sources */,
 			);
