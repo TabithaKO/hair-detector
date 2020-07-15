@@ -15,6 +15,9 @@ iOS app and createML models for detecting and classifying black women's hairstyl
 - space_buns
 - afro_ponytail
 
+# Training Data
+Most of my data was sourced on Pinterest. You can access the training images [here](https://drive.google.com/drive/folders/1XuWTBESMgbMtpZPEcbdb3cdO9TreS-rp?usp=sharing)
+
 # Annotated via IBM Cloud
 <img width="1440" alt="Screen Shot 2020-07-15 at 3 40 22 PM" src="https://user-images.githubusercontent.com/50864401/87593800-a3edc080-c6b1-11ea-9bc5-50f4ca353c8f.png">
 
