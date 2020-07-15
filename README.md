@@ -30,4 +30,7 @@ Access the model [here](https://drive.google.com/drive/folders/1XuWTBESMgbMtpZPE
  
  Access the model [here](https://drive.google.com/drive/folders/1XuWTBESMgbMtpZPEcbdb3cdO9TreS-rp?usp=sharing)
  
+# Credits:
+The template for the app are from this [video](https://www.youtube.com/watch?v=3MXYwpifQOM), I added a few lines of code in order to display the prediction and accuracy on the screen below the image.
  
+
